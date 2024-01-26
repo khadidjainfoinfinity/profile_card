@@ -27,7 +27,7 @@ align-items:  center;
 .box{
   width:  390px;
   height:  490px;
-  background:  rgba(255, 255, 255, .1);
+  background:  #E6F8FF;
   display:  grid;
   grid-template-rows:  30% 70%;
   border-radius:  25px;
@@ -37,7 +37,7 @@ align-items:  center;
 }
 
 .first{
-  background:  rgb(255, 255, 255);  
+  background: #C3EDFF ;  
   border-top-left-radius:  25px;
   border-top-right-radius:  25px;
   display:  flex;
